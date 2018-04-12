@@ -1,0 +1,21 @@
+.face{
+	color:darkblue;
+	}
+.back{
+	color:red;
+	opacity:0.4;
+	}
+body {
+	background-color: #04A6EB;
+	color: #FDFFFF;
+	width:500px;
+	margin-right:auto;
+	margin-left:auto;
+}
+input#abcd{
+	padding:5px 20px;
+	color:#FDFFFF;
+	background-color:#337AB7;
+	border-color:#2E6DA4;
+	border-style:none;
+}
